@@ -142,7 +142,7 @@ Interactive Swagger UI available.
 ## 🧪 Test Using Client
 
 ```bash
-python client/request.py
+python -m client.test_api
 ```
 
 ---
