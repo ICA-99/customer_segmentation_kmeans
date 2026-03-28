@@ -224,6 +224,8 @@ Pull requests are welcome. Feel free to open issues.
 
 If you found this useful, feel free to connect on LinkedIn!
 
+[Anjan Pal - LinkedIn](https://www.linkedin.com/in/anjan-pal-ab5a5a247/)
+
 ---
 
 ## ⭐ Give a Star
