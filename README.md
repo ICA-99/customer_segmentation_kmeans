@@ -46,7 +46,6 @@ customer_segmentation_kmeans/
 ├── app/
 │   ├── main.py          # FastAPI routes
 │   ├── schemas.py       # Request schema
-│   └── run.py           # Server entry point
 │
 ├── src/
 │   ├── train_model.py   # Model training script
@@ -62,6 +61,7 @@ customer_segmentation_kmeans/
 │
 ├── requirements.txt
 └── README.md
+└── run.py               # Server entry point
 ```
 
 ---
