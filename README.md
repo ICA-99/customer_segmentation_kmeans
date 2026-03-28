@@ -54,7 +54,8 @@ customer_segmentation_kmeans/
 ├── models/              # (Model files - ignored or optional)
 │   └── .gitkeep
 │
-├── data/                # Dataset (CSV)
+├── data/   
+|    └── store_customers.csv   # Dataset (CSV)
 │
 ├── client/
 │   └── request.py       # Client script to call API
