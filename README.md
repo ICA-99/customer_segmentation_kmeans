@@ -81,8 +81,7 @@ customer_segmentation_kmeans/
 ### 1. Clone Repository
 
 ```bash
-https://github.com/ICA-99/
-customer_segmentation_kmeans.git
+https://github.com/ICA-99/customer_segmentation_kmeans.git
 cd customer-segmentation-ml-api
 ```
 
