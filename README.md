@@ -175,7 +175,7 @@ Model files (`.joblib`) are **not included** in this repository.
 To generate them, run:
 
 ```bash
-python src/train_model.py
+python -m src.train_model
 ```
 
 This will create files inside:
