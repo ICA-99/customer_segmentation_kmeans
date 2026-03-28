@@ -82,7 +82,7 @@ customer_segmentation_kmeans/
 
 ```bash
 https://github.com/ICA-99/customer_segmentation_kmeans.git
-cd customer-segmentation-ml-api
+cd customer_segmentation_kmeans
 ```
 
 ---
