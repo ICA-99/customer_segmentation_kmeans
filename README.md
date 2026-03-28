@@ -81,7 +81,8 @@ customer_segmentation_kmeans/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/customer-segmentation-ml-api.git
+https://github.com/ICA-99/
+customer_segmentation_kmeans.git
 cd customer-segmentation-ml-api
 ```
 
@@ -104,10 +105,18 @@ pip install -r requirements.txt
 
 ---
 
+### 4. Train model 
+
+```bash
+python -m src.train_model
+```
+
+---
+
 ## ▶️ Run the Server
 
 ```bash
-python app/run.py
+python run.py
 ```
 
 Server will start at:
